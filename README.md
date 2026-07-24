@@ -1,6 +1,6 @@
 <div align="center">
 
-# &lt;DeepakYadav /&gt;
+![deepak-yadav](https://img.shields.io/badge/deepak--yadav-core%20v2.0-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 </div>
 
