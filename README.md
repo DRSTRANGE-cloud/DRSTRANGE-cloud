@@ -1,6 +1,9 @@
 <div align="center">
 
-![deepak-yadav](https://img.shields.io/badge/deepak--yadav-core%20v2.0-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
+![deepak-yadav](https://img.shields.io/badge/deepak--yadav-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)
 
 </div>
 
