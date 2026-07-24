@@ -2,9 +2,9 @@
 
 # Deepak Yadav
 
-### Full Stack Engineer • AI • Backend • Cloud
+### Engineering AI-powered products — from backend architecture to production deployment.
 
-Designing and shipping AI-powered software products with a focus on scalable backend systems, cloud infrastructure, and modern web experiences.
+Full Stack Engineer specializing in scalable systems, cloud infrastructure, and applied AI.
 
 </div>
 
@@ -12,13 +12,13 @@ Designing and shipping AI-powered software products with a focus on scalable bac
 
 ## At a Glance
 
-| | |
-|---|---|
-| **Products shipped** | 5 deployed, production-live applications |
-| **AI integration** | Google Gemini · Groq (LLaMA 3) · LLM-powered assistants |
-| **Cloud & infrastructure** | AWS · Vercel · Render |
-| **Security** | JWT · OAuth · IAM |
-| **Research** | Published, IJPREMS, November 2024 |
+<div align="center">
+
+| 5 | 3 | 3 | 1 |
+|:---:|:---:|:---:|:---:|
+| Products Shipped | AI-Powered Apps | Cloud Platforms | Published Paper |
+
+</div>
 
 ---
 
@@ -32,7 +32,7 @@ Debugging production systems is as much a part of my work as building them — m
 
 ## Building Beyond the Classroom
 
-Full-stack developer building AI-powered products, scalable backend systems, and cloud-native web applications — spanning resume intelligence platforms, LLM-driven recommendation engines, and logistics systems. Each one deployed and shaped by real usage, not just coursework.
+Full-stack developer building AI-powered products, scalable backend systems, and cloud-native web applications — spanning resume intelligence platforms, LLM-driven recommendation engines, and logistics systems. Each product is built to solve a real problem and refined beyond the first working version through deployment, debugging, and iteration.
 
 My interests include backend architecture, distributed systems, AI integration, cloud-native applications, and developer-focused tooling.
 
@@ -145,14 +145,46 @@ Built to master core frontend engineering without framework overhead — direct 
 
 ## Tech Arsenal
 
-| Category | Technologies |
-|---|---|
-| Languages | JavaScript · TypeScript · Python · Java · C++ |
-| Frontend | React · Next.js · Tailwind CSS · Redux Toolkit · Framer Motion |
-| Backend | Node.js · Express.js · FastAPI · Flask |
-| Database | MongoDB · MySQL |
-| Cloud | AWS · Vercel · Render |
-| Tools | Git · GitHub · Postman · Cursor |
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=764ABC)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=0055FF)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
@@ -161,10 +193,10 @@ Built to master core frontend engineering without framework overhead — direct 
 **Cloud Computing Intern** — Heuristic Academy
 *June 2024 – July 2024*
 
-- AWS Infrastructure — EC2, S3, IAM
-- Cloud Networking — VPC, subnets, NAT Gateways
-- High Availability — ELB, Auto Scaling, Route 53
-- Monitoring & Auditing — CloudWatch, CloudTrail
+- **AWS Infrastructure** — EC2, S3, IAM
+- **Cloud Networking** — VPC, subnets, NAT Gateways
+- **High Availability** — ELB, Auto Scaling, Route 53
+- **Monitoring & Auditing** — CloudWatch, CloudTrail
 
 ---
 
@@ -180,15 +212,6 @@ Peer-reviewed research examining the platform's architecture and its role in con
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DRSTRANGE-cloud&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRSTRANGE-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" width="49%" />
-</div>
-
----
-
 <div align="center">
 
 ## Connect
@@ -199,6 +222,6 @@ Peer-reviewed research examining the platform's architecture and its role in con
 
 <br>
 
-*Open to full-stack and backend engineering roles — let's build something.*
+*Open to full-stack and backend engineering roles.*
 
 </div>
