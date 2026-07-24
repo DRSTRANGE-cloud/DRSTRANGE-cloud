@@ -8,8 +8,11 @@
 $ whoami
 Full Stack Engineer — building AI-powered products, backend to deployment
 
-$ stats
-5 products shipped · 3 AI integrations · 1 published paper
+$ focus
+AI Systems · Backend Engineering · Cloud Infrastructure
+
+$ philosophy
+Build products. Solve problems. Ship software.
 ```
 
 ---
