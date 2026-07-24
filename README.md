@@ -2,23 +2,15 @@
 
 # Deepak Yadav
 
-### Engineering AI-powered products — from backend architecture to production deployment.
-
-Full Stack Engineer specializing in scalable systems, cloud infrastructure, and applied AI.
-
 </div>
 
----
+```bash
+$ whoami
+Full Stack Engineer — building AI-powered products, backend to deployment
 
-## At a Glance
-
-<div align="center">
-
-| 5 | 3 | 3 | 1 |
-|:---:|:---:|:---:|:---:|
-| Products Shipped | AI-Powered Apps | Cloud Platforms | Published Paper |
-
-</div>
+$ stats
+5 products shipped · 3 AI integrations · 1 published paper
+```
 
 ---
 
@@ -46,7 +38,13 @@ Combines resume intelligence, AI mock interviewing, and career analytics into a 
 Migrated authentication from cross-origin cookies to JWT + localStorage to eliminate cross-environment session failures, and configured dynamic CORS to support Vercel preview deployments.
 
 **Tech Stack**
-`React 19` `Node.js` `Express.js` `MongoDB` `Google Gemini AI` `JWT`
+
+![React 19](https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-000000?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FB015B)
 
 [Live Demo](https://cerevix-ai.vercel.app) · [Repository](https://github.com/DRSTRANGE-cloud/Cerevix-AI)
 
@@ -64,7 +62,13 @@ A full-stack movie and TV platform combining content discovery, community review
 Rebuilt the AI assistant from a rule-based system into an LLM-powered chatbot, then diagnosed and resolved four production-breaking issues — a database migration, an OAuth redirect mismatch, and a React lifecycle bug — to stabilize the live deployment.
 
 **Tech Stack**
-`React 18` `FastAPI` `MongoDB Atlas` `Groq AI (LLaMA 3)` `TMDB API` `JWT`
+
+![React 18](https://img.shields.io/badge/React_18-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Groq AI](https://img.shields.io/badge/Groq_AI_(LLaMA_3)-000000?style=flat-square)
+![TMDB API](https://img.shields.io/badge/TMDB_API-000000?style=flat-square&logo=themoviedatabase&logoColor=01D277)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FB015B)
 
 [Live Demo](https://criticizer.vercel.app) · [Repository](https://github.com/DRSTRANGE-cloud/Criticizer)
 
@@ -83,7 +87,13 @@ A full-stack MERN marketplace connecting artisans directly with customers — pr
 Designed cloud-hosted backend services on MongoDB Atlas supporting concurrent order lifecycle tracking across multiple user roles, from placement through delivery confirmation.
 
 **Tech Stack**
-`React` `Node.js` `Express.js` `MongoDB Atlas` `Stripe` `JWT`
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=635BFF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=FB015B)
 
 [Live Demo](https://handmade-haven-live.vercel.app) · [Repository](https://github.com/DRSTRANGE-cloud/Handmade-Haven)
 
@@ -101,7 +111,11 @@ A full-stack order-fulfillment platform simulating real-world logistics — mult
 Built without an ORM abstraction layer — connection pooling, indexed full-text search, and query optimization were all handled directly to support concurrent request handling at the database level.
 
 **Tech Stack**
-`Flask` `MySQL` `Werkzeug (PBKDF2)` `Jinja2`
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Werkzeug](https://img.shields.io/badge/Werkzeug_(PBKDF2)-000000?style=flat-square)
+![Jinja2](https://img.shields.io/badge/Jinja2-000000?style=flat-square&logo=jinja&logoColor=B41717)
 
 [Repository](https://github.com/DRSTRANGE-cloud/OrderSphere)
 
@@ -119,7 +133,10 @@ A Spotify-inspired music player built entirely in vanilla JavaScript — dynamic
 Built to master core frontend engineering without framework overhead — direct DOM manipulation and manual UI state management in place of a component framework.
 
 **Tech Stack**
-`HTML5` `CSS3` `Vanilla JavaScript`
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 [Live Demo](https://melofy1.netlify.app) · [Repository](https://github.com/DRSTRANGE-cloud/Melofy)
 
@@ -189,15 +206,6 @@ Peer-reviewed research examining the platform's architecture and its role in con
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DRSTRANGE-cloud&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRSTRANGE-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" width="49%" />
-</div>
 
 ---
 
