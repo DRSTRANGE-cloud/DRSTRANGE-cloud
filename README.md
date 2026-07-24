@@ -1,20 +1,22 @@
 <div align="center">
 
-# Deepak Yadav
+# <DeepakYadav />
 
 </div>
 
 ```bash
-$ whoami
-Full Stack Engineer — building AI-powered products, backend to deployment
+$ role
+Full Stack Engineer
 
-$ focus
+$ stack
 AI Systems · Backend Engineering · Cloud Infrastructure
+
+$ mission
+Building AI-powered products, from backend architecture to production deployment.
 
 $ philosophy
 Build products. Solve problems. Ship software.
 ```
-
 ---
 
 ## Who I Am
