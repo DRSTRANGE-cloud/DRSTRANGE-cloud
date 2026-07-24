@@ -1,9 +1,13 @@
 <div align="center">
 
-![deepak-yadav](https://img.shields.io/badge/deepak--yadav-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-production-success?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=for-the-badge)
+<p align="center">
+
+  <img src="https://img.shields.io/badge/deepak--yadav-000000?style=for-the-badge&logo=npm&logoColor=CB3837" />
+  <img src="https://img.shields.io/badge/status-shipping-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/environment-production-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-always_improving-8A2BE2?style=for-the-badge" />
+
+</p>
 
 </div>
 
